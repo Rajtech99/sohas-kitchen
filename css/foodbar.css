@@ -1,0 +1,29 @@
+
+@keyframes Rotate {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}
+
+.foodbar {
+    grid-area: 1 / 1 / -1 / 2;
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(41,38,38,1) 35%);
+    width: 300px;
+    height: 425px;
+    color: #fff;
+}
+
+.foodbar h2 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 2.1rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.foodbar img {
+    filter: drop-shadow(#000 0rem 0rem 10px);
+    margin-left: -45px;
+    width: 390px;
+    animation: Rotate 18s linear infinite;
+}
