@@ -3,7 +3,7 @@
 .dishes {
     display: flex;
     justify-content: space-between;
-    margin-top: 3rem;
+    margin-top: 2rem;
     grid-area: 3 / 1 / -1 / 3;
 }
 
