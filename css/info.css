@@ -1,6 +1,7 @@
 .info {
     grid-area: 2 / 2 / 3 / 3;
     width: 457px;
+    height: 360px;
 }
 
 .info h1 {
@@ -12,10 +13,6 @@
 .info p {
     font-family: 'Poppins', sans-serif;
     color: #6c757d;
-}
-
-.soha {
-    display: flex;
 }
 
 .W {
