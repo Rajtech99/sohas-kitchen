@@ -1,4 +1,4 @@
-# sohas-kitchen
-A landing page design for a restaurant.
+# Rida's kitchen
+A landing page design for a chef.
 
-Go Live: https://rajtech99.github.io/sohas-kitchen/
+Go Live: https://rajtech99.github.io/ridas-kitchen/
